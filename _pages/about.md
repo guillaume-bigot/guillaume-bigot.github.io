@@ -1,10 +1,11 @@
 ---
 permalink: /
-title: "Hi there, I'm Guillaume !"
+title: "Hi there, I'm Guillaume !👋"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+---
 ---
 
 Recently moved in Toronto, 2 month ago, i'm here for live an international experience and improve my english.
