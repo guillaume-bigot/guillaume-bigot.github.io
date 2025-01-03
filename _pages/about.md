@@ -10,8 +10,8 @@ redirect_from:
 
 📍 Recently moved in Toronto, 2 month ago, i'm here for live an international experience and improve my english.
 
-🧑‍💻 Also, i recently deployed my company in Web Design -> WebIdesign
-  - landing page in progress, stay tuned 🚀
+🚀 Also, I recently deployed my company in Web Design -> WebIdesign
+  - landing page in progress, stay tuned 
   - currently on a project for a travel company
   - sens me an email if you need a website or something like that
 
