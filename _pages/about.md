@@ -7,9 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Recently moved in Toronto, 2 month ago, i'm in for live an international experience and improve my english.
+Recently moved in Toronto, 2 month ago, i'm here for live an international experience and improve my english.
 
-Also, i recently deployed my company in Web Design
+Also, i recently deployed my company in Web Design -> WebIdesign
+  - site web in progress
+  - currently on a project for travel company
+  - email me if you need a website or something like that
 
 EXPERIENCE
 ======
